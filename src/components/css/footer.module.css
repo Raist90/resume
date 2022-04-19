@@ -1,0 +1,14 @@
+/* footer */
+.footer {
+    left: 0;
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+    background: rgb(255,188,215);
+    background: linear-gradient(90deg, rgba(255,188,215,1) 0%, rgba(93,49,255,1) 35%, rgba(221,242,64,1) 100%);
+    color: #fff;
+}
+
+    .copyright-text {
+        margin: 0;
+    }

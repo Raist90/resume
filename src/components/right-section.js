@@ -18,7 +18,7 @@ const RightSection = () => {
           <p><strong>I Sarti del Web | May 2018 - present</strong></p>
           <p>
             - I realized 50+ websites <br />
-            - I built several marketing automations and campaigns with Infusionsoft Keap and Active Campaign. 
+            - I built several marketing automations and campaigns with Infusionsoft Keap and Active Campaign
           </p>
           <h4 className={`${purple} ${uppercase}`}>Web Developer</h4>
           <p><strong>UpBrain | February 2016 - May 2018</strong></p>
