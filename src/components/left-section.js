@@ -12,6 +12,7 @@ import {
   textCenter,
   yellow,
   rounded,
+  fixMargin
 } from "../components/css/utilities.module.css"
 import Iconbox from "../components/icon-box"
 
@@ -32,9 +33,9 @@ const LeftSection = () => {
           <h2 className={purple}>Personal Profile</h2>
           <p>I am an experienced web developer interested in projects that require both creative and analytical thinking, and I prioritize user experience in my work.</p>
           <h2 className={purple}>Technical Skills</h2>
-          <p>
-            <strong className={yellow}>Coding</strong>
-          </p>
+          <h4 className={`${yellow} ${fixMargin}`}>
+            Coding
+          </h4>
           <ul className={skillsList}>
             <li>
               HTML
