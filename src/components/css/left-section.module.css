@@ -1,0 +1,19 @@
+/* left section */
+.left-section {
+    flex: 1;
+    background: #000;
+    padding-top: 50px;
+}
+
+    .me {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .left-section-text-wrapper {
+        padding: 50px;
+    }
+
+        .left-section-text-wrapper h4, .left-section-text-wrapper h2 {
+            margin-bottom: 0;
+        }

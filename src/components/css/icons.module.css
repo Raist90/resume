@@ -1,0 +1,13 @@
+/* icons */
+.icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 110px;
+    margin: 0 auto;
+}
+
+.icon-style {
+    flex: 1;
+    color: white;
+    font-size: 30px;
+}

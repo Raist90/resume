@@ -1,0 +1,12 @@
+/* right-section */
+.right-section {
+    flex: 1;
+}
+
+    .right-section-text-wrapper {
+        padding: 50px;
+    }
+
+        .right-section-text-wrapper h4, .right-section-text-wrapper h2, .right-section-text-wrapper p {
+            margin-bottom: 0;
+        }
