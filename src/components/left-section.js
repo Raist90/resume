@@ -80,6 +80,12 @@ const LeftSection = () => {
               UI/UX Design
             </li> 
           </ul>
+          <h2 className={purple}>Contact Information</h2>
+          <p>
+            <strong>Phone:</strong> +39 333 3361932 <br />
+            <strong>Mail:</strong> manuel.detoma@gmail.com <br />
+            <strong>Address:</strong> Av. del Pintor Joaquin Sorolla 167, Malaga (ES)
+          </p>
         </div>
       </section>
   )
