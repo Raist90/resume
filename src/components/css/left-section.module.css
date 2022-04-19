@@ -1,7 +1,7 @@
 /* left section */
 .left-section {
     flex: 1;
-    background: #000;
+    background: #111111;
     padding-top: 50px;
 }
 
@@ -17,3 +17,11 @@
         .left-section-text-wrapper h4, .left-section-text-wrapper h2 {
             margin-bottom: 0;
         }
+
+        .skills-list {
+            list-style-type: disc;
+        }
+
+            .skills-list li::marker {
+                color: green;
+            }

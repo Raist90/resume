@@ -17,9 +17,14 @@
 
 /* colors */
 .purple {
-    color: rebeccapurple;
+    color: #7b1fa2;
 }
 
 .yellow {
     color: yellow;
+}
+
+/* headings */
+h1 {
+    margin-top: 0;
 }
