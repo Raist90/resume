@@ -15,14 +15,17 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "autotype": "^0.0.1",
     "gatsby": "^4.12.1",
     "gatsby-plugin-image": "^2.12.1",
+    "gatsby-plugin-react-helmet": "^5.12.1",
     "gatsby-plugin-sharp": "^4.12.1",
     "gatsby-plugin-typography": "^4.12.1",
     "gatsby-source-filesystem": "^4.12.1",
     "gatsby-transformer-sharp": "^4.12.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
     "react-icons": "^4.3.1",
     "react-typography": "^0.16.20",
     "typography": "^0.16.21",
